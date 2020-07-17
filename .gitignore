@@ -1,3 +1,6 @@
+# Additional things to ignore
+*.swp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
